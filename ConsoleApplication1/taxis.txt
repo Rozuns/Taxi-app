@@ -1,0 +1,5 @@
+Car;audi,r6,2010,4,500,6
+Car;bmw,45,1994,5,1000.34,4
+Car;das,dsa,1995,4,999.99,4
+Route;mall center    ,5.0,4
+Route;lidl kauf   ,2.0,9
